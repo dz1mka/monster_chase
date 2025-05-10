@@ -13,7 +13,7 @@ public class Monster : MonoBehaviour
     {
         myBody = GetComponent<Rigidbody2D>();
 
-        speed = 7f;
+        
     }
 
     // Update is called once per frame
